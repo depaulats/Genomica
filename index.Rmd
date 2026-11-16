@@ -1,5 +1,5 @@
 --- 
-title: "Genômica e Ferramentas de Bioinformática"
+title: "Notas de Aula em Genômica"
 author: "Thiago S. de Paula"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site

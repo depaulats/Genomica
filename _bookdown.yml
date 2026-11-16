@@ -1,8 +1,8 @@
 book_filename: "bookdownproj"
 output_dir: docs
 delete_merged_file: true
-edit: https://github.com/depaulats/uerj-ibrag-genomica/edit/main/%s
-view: https://github.com/depaulats/uerj-ibrag-genomica/blob/main/%s
+edit: https://github.com/depaulats/Genomica/edit/main/%s
+view: https://github.com/depaulats/Genomica/blob/main/%s
 language:
   label:
     fig: "Figura "
