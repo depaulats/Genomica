@@ -1,0 +1,8 @@
+--- 
+title: "Genômica e Ferramentas de Bioinformática"
+author: "Thiago S. de Paula"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+---
+
+# Prefácio{-}
