@@ -1,4 +1,4 @@
-# Genômica 2025/2
+# Genômica 2026/2
 
 Bem-vindo ao repositório oficial da disciplina ***Genômica*** do Instituto de Biologia Roberto Alcantara Gomes (IBRAG) da Universidade do Estado do Rio de Janeiro (UERJ)!
 
